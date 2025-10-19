@@ -30,6 +30,7 @@ Technologies Used
 - NumPy
 - Matplotlib / Seaborn
 - Scikit-learn
+
 Example Insights
 - Female passengers had a higher survival rate.
 - Passengers in higher classes (1st class) were more likely to survive.
